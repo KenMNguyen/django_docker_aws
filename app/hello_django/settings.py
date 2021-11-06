@@ -126,3 +126,10 @@ STATIC_URL = '/static/'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# nucamp-django-docker.pem
+
+# ssh -i nucamp-django-docker.pem ec2-user@54.153.118.79
+
+
+
